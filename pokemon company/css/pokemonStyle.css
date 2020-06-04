@@ -1,0 +1,73 @@
+body{
+    
+    color: #5a5a5a;
+}
+
+.navbar-wrapper{
+    
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 20;
+}
+.crousel{
+    
+    height: 500px;
+    margin-bottom: 50px;
+    
+}
+
+.crousel-inner > .crousel-item{
+    height: 500px;
+}
+
+
+.crousel-inner > .crousel-item > img{
+    
+    position: absolute;
+    height: 500px;
+    min-width: 100%;
+    top: 0;
+    left: 0;
+    
+}
+
+.team .col-lg-4{
+    
+    margin-top: 30px;
+    text-align: center;
+    padding: 20px
+    
+    
+}
+
+.team > .row > .col-lg-4 > h2{
+    
+   font-family: 'Mukta', sans-serif;
+    
+}
+
+.team > .row > .col-lg-4 > p{
+    
+    font-family: 'Mukta', sans-serif;
+}
+
+.row > .col-lg-7{
+    
+    text-align: center;
+    margin-top: 100px;
+    padding-left: 40px
+    
+}
+
+.row{
+    
+    padding-bottom: 30px;
+}
+
+
+footer{
+    
+    margin: 0 30px
+}
